@@ -1,3 +1,7 @@
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920315243106795570?hideDiscrim=true)](https://discord.com/users/920315243106795570)
+[Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/F5pSKpEMMC) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Layona-x&show_icons=true&theme=radical)
 
 
@@ -24,6 +28,4 @@
 <br />
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Layona-x&show_icons=true)  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920315243106795570?hideDiscrim=true)](https://discord.com/users/920315243106795570)
-[Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/F5pSKpEMMC) 
+
