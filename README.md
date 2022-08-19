@@ -31,5 +31,4 @@
   </tr></table><br>
 <br />
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layona-x&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97" style="float:left;">
